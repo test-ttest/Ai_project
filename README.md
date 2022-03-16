@@ -1,2 +1,2 @@
 # Ai_project
-Ai project missionaries and cannibal
+Ai project bridge game
